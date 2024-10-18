@@ -1,4 +1,4 @@
-# Aprendizado em Métodos de Array com JavaScript 📚✨
+# Aprendizado em Métodos de Array com JavaScript 📚
 
 ## Descrição do Projeto 🎉
 
