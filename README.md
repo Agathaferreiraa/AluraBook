@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto 🎉
 
-Este repositório é dedicado ao meu aprendizado no curso **"Métodos de Array com JavaScript"** na Alura, ministrado pelo incrível **Guilherme Lima**. Aqui, vou explorar o mundo da manipulação de arrays, utilizando a API do **AluraBooks**. 
+Este repositório é dedicado ao meu aprendizado no curso **"Métodos de Array com JavaScript"** na Alura. Aqui, vou explorar o mundo da manipulação de arrays, utilizando a API do **AluraBooks**. 
 
 Vamos trabalhar com métodos super úteis como `filter`, `forEach`, `map`, `reduce` e `sort` para dar vida aos dados dos livros! 📖
 
